@@ -1,0 +1,9 @@
+.main-block{
+    width: 473px;
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+h1{
+    margin: 0 auto;
+}
